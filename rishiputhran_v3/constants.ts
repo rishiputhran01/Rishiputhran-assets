@@ -19,7 +19,7 @@ export const INITIAL_CONFIG: SiteConfig = {
   homeServicesDesc: "Our services bring Vedic understanding into everyday life, offering gentle guidance for anyone seeking clarity or support on their personal journey.",
   homeGalleryTitle: "The journey of I",
   homeGalleryDesc: "A photographic chronicle of growth, from the early seeds of curiosity to the disciplined heights of Vedic mastery.",
-  homeAlbumImg1: "https://picsum.photos/id/31/800/1000",
+  homeAlbumImg1: "./rishiputhran_v3/Pics/Home/Founder",
   homeAlbumImg2: "https://picsum.photos/id/32/800/1000",
   homeAlbumImg3: "https://picsum.photos/id/33/800/1000",
   homeAlbumImg4: "https://picsum.photos/id/34/800/1000",
