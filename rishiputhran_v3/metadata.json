@@ -1,8 +1,0 @@
-
-{
-  "name": "Rishiputhran - SSLC",
-  "description": "Shraddha Scientific Learning Center - A holistic scientific learning centre integrating ancient Vedic wisdom with modern scientific understanding.",
-  "requestFramePermissions": [
-    "geolocation"
-  ]
-}
